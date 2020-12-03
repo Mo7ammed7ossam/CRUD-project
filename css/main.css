@@ -1,0 +1,12 @@
+.bord {
+    border: 2px solid black;
+}
+
+body {
+    background-color: rgba(210, 222, 206);
+}
+
+table .btndeit {
+    cursor: pointer;
+    font-size: 22px;
+}
